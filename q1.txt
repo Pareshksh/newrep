@@ -5,3 +5,11 @@ git remote -v: Lists a Git project's remotes.
 git fetch: Fetches work from the remote into the local copy.
 git merge origin/master: Merges origin/master into your local branch.
 git push origin <branch_name>: Pushes a local branch to the origin remote.
+
+StringBuilder is identical to StringBuffer except for one important difference it is not synchronized, which means it is not thread safe. Its because StringBuilder methods are not synchronised.
+
+StringBuilder Constructors
+
+StringBuilder ( ), creates an empty StringBuilder and reserves room for 16 characters.
+StringBuilder ( int size ), create an empty string and takes an integer argument to set capacity of the buffer.
+StringBuilder ( String str ), create a StringBuilder object and initialize it with string str.
