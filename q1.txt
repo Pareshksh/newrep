@@ -1,0 +1,10 @@
+Congratulations, you now know enough to start 
+collaborating on Git projects! Let's review.
+
+A remote is a Git repository that lives outside your
+Git project folder. Remotes can live on the web, on 
+a shared network or even in a separate folder on 
+your local computer.The Git Collaborative Workflow 
+are steps that enable smooth project development 
+when multiple collaborators are working on the same 
+Git project.
